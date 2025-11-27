@@ -1,0 +1,11 @@
+<Limit ALL>
+Order Allow, Deny
+
+# 必要な IP アドレスを必ず許可してください
+# IP_OFF
+# 日本国内からの IP アドレスから FTP 接続が出来きます
+
+Allow From JP
+</Limit>
+
+

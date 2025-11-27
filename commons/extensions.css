@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+#sidebar div.section {
+margin: 5px 10px 10px 10px;
+padding: 2px;
+background-color: #f9f9f9;
+border: 1px #565656 solid;
+border-radius: 3px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+box-shadow:0px 2px 5px #999999;
+-moz-box-shadow: 0px 2px 5px #999999;
+-webkit-box-shadow: 0px 2px 5px #999999;
+}
+
+#sidebar div.section h3 {
+margin: 0px 0px 8px 0px;
+padding: 5px 6px 5px 6px;
+font-size: 100%;
+color: #FFFFFF;
+background-color: #565666;
+border-radius: 3px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+}
+
+#sidebar div.section p {
+margin: 0px 4px 7px 4px;
+line-height: 130%;
+color: #565656;
+}
+
+#sidebar div.section p a {
+color: #565688;
+}
+
+#sidebar div.section ul.sidemenu {
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+#sidebar div.section ul.sidemenu li {
+border-bottom: 1px dotted #565688;
+}
+
+#sidebar div.section ul.sidemenu li.last {
+border-bottom: 1px solid #F9F9F9;
+}
+
+#sidebar div.section ul.sidemenu li a {
+display: block;
+position: relative;
+padding: 5px 10px 5px 10px;
+color: #565688;
+text-decoration: none;
+}
+
+#sidebar div.section ul.sidemenu li a:hover {
+text-decoration: none;
+background: #676777;
+color: #FFFFFF;
+}
+
+#sidebar div.section p.tel {
+margin-bottom: 0.1em; 
+font-size: 120%; 
+font-weight: bold;
+color: #2b2b2b;
+}
+
+#sidebar div.section p.form {
+margin-top: 3px;
+padding: 3px 3px 3px 3px;
+background-color: #ffffff;
+border: 1px solid;
+border-color: #CCCCCC;
+text-align: center;
+line-height: 100%;
+}
+
+#sidebar div.section p.form a {
+display: block;
+position: relative;
+padding: 12px 2px 12px 2px;
+background: #565688;
+font-size: 110%;
+font-weight: normal;
+color: #ffffff;
+text-decoration: none;
+}
+
+#sidebar div.section p.form a:hover {
+background: #676799;
+}

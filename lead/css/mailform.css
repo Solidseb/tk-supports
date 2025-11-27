@@ -1,0 +1,266 @@
+@charset "utf-8";
+
+dl,dt,dd,ul,ol,li,form,fieldset,input,textarea,th,td{
+	margin: 0;
+	padding: 0;
+}
+fieldset,img{
+	border: 0;
+	vertical-align : middle;
+}
+
+/* --------------------------------------------- */
+
+form#mail_form{
+	width : auto;
+	background : rgba(255, 255, 255, 0.3);
+	border : 1px solid #EEE;
+	border-radius : 7px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 0;
+	padding-bottom: 20px;
+	padding-left: 0;
+}
+form#mail_form dl{
+	width : 90%;
+	max-width: 800px;
+	overflow : hidden;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+form#mail_form dl dt{
+	clear : both;
+	width : 33%;
+	float : left;
+	border-top : 1px solid #cccccc;
+	text-align : right;
+	overflow : hidden;
+	padding-top: 15px;
+	padding-right: 2%;
+	padding-bottom: 15px;
+	padding-left: 8%;
+}
+form#mail_form dl dd{
+	width : 47%;
+	float : right;
+	border-top : 1px solid #cccccc;
+	padding-top: 20px;
+	padding-right: 5%;
+	padding-bottom: 15px;
+	padding-left: 5%;
+}
+form#mail_form dl dt:first-child,
+form#mail_form dl dt:first-child+dd{
+	border : none;
+}
+form#mail_form dl dt span{
+	display : block;
+	font-size : 80%;
+	color : #648EB0;
+	line-height: 120%;
+}
+
+/* -- for JavaScript ここから -------------------------------------------------------------------------------- */
+
+form#mail_form dl dt span.required,
+form#mail_form dl dt span.optional{
+	display : inline-block;
+	float : left;
+	font-weight : bold;
+	color : #ffffff;
+	padding : 3px 5px;
+	border-radius : 3px;
+}
+form#mail_form dl dt span.required{
+	background-color: #DD3C3C;
+}
+form#mail_form dl dt span.optional{
+	background-color: #527EA3;
+}
+form#mail_form dl dd span{
+	display : block;
+	color : #EE3939;
+	-webkit-animation: blink 0.5s ease-in-out infinite alternate;
+	-moz-animation: blink 0.5s ease-in-out infinite alternate;
+	animation: blink 0.5s ease-in-out infinite alternate;
+	font-size: 14px;
+	line-height: 22px;
+	padding: 5px;
+	font-weight: bold;
+	margin: 5px;
+}
+@-webkit-keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+@-moz-keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+@keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+/* -- for JavaScript ここまで -------------------------------------------------------------------------------- */
+
+
+
+
+form#mail_form input{
+	height : 1.8em;
+	border : 1px solid #cccccc;
+	border-radius : 3px;
+	background : #fafafa;
+}
+form#mail_form textarea{
+	width : 320px;
+	height : 200px;
+	resize : vertical;
+	border : 1px solid #cccccc;
+	border-radius : 3px;
+	background : #fafafa;
+}
+form#mail_form input:focus,
+form#mail_form textarea:focus{
+	box-shadow : 0px 0px 5px #55ccff;
+	border : 1px solid #55ccff;
+	background : #ffffff;
+}
+form#mail_form input#name_1,
+form#mail_form input#name_2{
+	width : 160px;
+}
+form#mail_form input#read_1,
+form#mail_form input#read_2{
+	width : 90px;
+}
+form#mail_form input#mail_address,
+form#mail_form input#mail_address_confirm{
+	width : 250px;
+}
+form#mail_form ul li{
+	list-style-type : none;
+	margin-bottom : 5px;
+}
+form#mail_form ul li label:hover{
+	cursor : pointer;
+}
+form#mail_form ul li input{
+	height : auto;
+	margin-right : 0.5em;
+}
+form#mail_form input#postal{
+	width : 100px;
+}
+form#mail_form input#address_1,
+form#mail_form input#address_2{
+	display : block;
+	width : 300px;
+	margin-bottom : 7px;
+}
+form#mail_form input#phone{
+	width : 100px;
+}
+form#mail_form input#day{
+	width : 160px;
+}
+form#mail_form input#mail_submit_button{
+	width : auto;
+	height : auto;
+	vertical-align : middle;
+	border-radius : 3px;
+	font-family : inherit;
+	padding-top: 10px;
+	padding-right: 35px;
+	padding-bottom: 10px;
+	padding-left: 35px;
+	font-size: 18px;
+	line-height: 26px;
+	color: #FFF;
+	background-color: #3C91B9;
+	box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 1px 0px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 1px 0px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 1px 0px;
+	border: 1px solid #FFF;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-transition: 0.2s linear;
+	-moz-transition: 0.2s linear;
+	transition: 0.2s linear;
+}
+form#mail_form input#mail_submit_button:hover{
+	cursor : pointer;
+	background-color: #000;
+}
+
+
+
+
+/* --responsive------------------------------------------- */
+
+/* 640pixel start */
+@media screen and (max-width : 640px){
+
+form#mail_form{
+	width : 95%;
+}
+form#mail_form dl{
+	width : 90%;
+}
+form#mail_form dl dt{
+	width : auto;
+	float : none;
+	text-align : left;
+	padding : 10px 0 5px;
+	font-weight : bold;
+}
+form#mail_form dl dd{
+	width : auto;
+	float : none;
+	border-top : none;
+	padding : 0px 0 13px 0px;
+}
+form#mail_form dl dt span{
+	font-weight : normal;
+}
+
+/* -- for JavaScript ここから -------------------------------------------------------------------------------- */
+
+form#mail_form dl dt span.required,
+form#mail_form dl dt span.optional{
+	margin-right : 1em;
+}
+
+/* -- for JavaScript ここまで -------------------------------------------------------------------------------- */
+
+
+form#mail_form input{
+	height : 25px;
+}
+form#mail_form input#name_1,
+form#mail_form input#name_2,
+form#mail_form input#read_1,
+form#mail_form input#read_2,
+form#mail_form input#mail_address,
+form#mail_form input#mail_address_confirm,
+form#mail_form input#postal,
+form#mail_form input#address_1,
+form#mail_form input#address_2,
+form#mail_form input#phone,
+form#mail_form input#day,
+form#mail_form textarea{
+	max-width : 98%;
+	-webkit-appearance : none;
+}
+
+
+}
+/* 640pixel end */

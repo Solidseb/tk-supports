@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>天武ガチャ</title>
+		<link rel="stylesheet" href="bootstrap.css"></link>
+		<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/themes/ui-lightness/jquery-ui.css">
+		<link rel="stylesheet" href="bootstrap-responsive.css"></link>
+		<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/themes/ui-lightness/jquery-ui.css">
+		<link rel="stylesheet" href="demo.css"></link>
+	</head>
+	<body>
+		<div class="navbar navbar-inverse navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</a>
+					<a class="brand" href="./">Roulette.js</a>
+					<div class="nav-collapse collapse" id="main-menu">
+						<ul class="nav pull-right" id="main-menu-right">
+							<li><a rel="tooltip" target="_blank" href="https://github.com/akira-kuriyama/roulette.js" >Github<i class="icon-share-alt"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="page-header" style="">
+				<h1>
+					天武ガチャ　by Doryu
+				</h1>
+			</div>
+
+			<div class="row">
+				<div class="span4">
+					<div class="roulette_container" >
+						<div class="roulette" style="display:none;">
+							<img src="sachi.png"/>
+							<img src="horo.png"/>
+							<img src="lemon.png"/>
+							<img src="tag.png"/>
+							<img src="pira.png"/>
+							<img src="masa.png"/>
+							<img src="moji.png"/>
+							<img src="keda.png"/>
+							<img src="yagi.png"/>
+							<img src="yuka.png"/>
+						</div>
+					</div>
+					<div class="btn_container">
+						<p>
+						<button class="btn btn-large btn-primary start"> START </button>
+						<button class="stop btn-large btn btn-warning"> STOP </button>
+						</p>
+					</div>
+					<div class="log_container">
+						<p class="demo_label">Log</p>
+						<div id="msg">
+						</div>
+					</div>
+				</div>
+				<div class="span4">
+					<div class="right_container">
+						<p class="demo_label">Paramater</p>
+						<div class="speed_value param_label">
+							<span class="param_name">回転速度 :</span> <span class="speed_param"></span>
+						</div>
+						<div id="speed"> </div>
+						
+						<div class="duration_value param_label">
+							<span class="param_name">強制Stop（秒） :</span> <span class="duration_param"></span>
+						</div>
+						<div id="duration"> </div>
+						
+						<div class="stop_image_number_value param_label">
+							<span class="param_name">参加者 :</span> <span class="stop_image_number_param"></span>
+						</div>
+						<input id="stopImageNumber" name="stopImageNumber"/>
+						<span class="image_sample">
+							<img data-value="-1" src="random.png" title="random"/>
+							<img data-value="0"  src="sachi.png"/>
+							<img data-value="1"  src="horo.png"/>
+							<img data-value="2"  src="lemon.png"/>
+							<img data-value="3"  src="tag.png"/></br>
+							<img data-value="4"  src="pira.png"/>
+							<img data-value="5"  src="masa.png"/>
+							<img data-value="6"  src="moji.png"/>
+							<img data-value="7"  src="keda.png"/></br>
+							<img data-value="8"  src="yagi.png"/>
+							<img data-value="9"  src="yuka.png"/>
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>
+		<script src="../roulette.js"></script>
+		<script src="demo.js"></script>
+
+	</body>
+</html>
+

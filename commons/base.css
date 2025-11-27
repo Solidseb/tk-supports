@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+* {
+margin: 0px;
+padding: 0px;
+font-family: Verdana, 'Lucida Grande',Meiryo,Osaka,"ＭＳ Ｐゴシック", Arial,Osaka, sans-serif; 
+list-style: none;
+font-weight: normal;
+}
+
+html {
+overflow-x: hidden;
+}
+
+body {
+background-image: url(../images/bg_header.png);
+background-repeat: repeat-x;
+background-color: #EDEDED;
+text-align: center;
+overflow-x: hidden;
+}
+
+img,object,embed {
+display: block;
+border: none;
+}
+
+p,li {
+font-size: 12px;
+line-height: 1.5em;
+color : #232323;
+}
+
+li {
+list-style: none;
+}
+
+em,h1,h2,h3,dt {
+font-family: Verdana, 'Lucida Grande',Meiryo,Osaka,"ＭＳ Ｐゴシック", Arial,Osaka, sans-serif; 
+font-weight: normal;
+text-shadow: #afafaf 0px 0px 5px;
+}
+
+strong {
+font-family: Verdana, 'Lucida Grande',Meiryo,Osaka,"ＭＳ Ｐゴシック", Arial,Osaka, sans-serif; 
+font-weight: bolder;
+text-shadow: #afafaf 0px 0px 5px;
+}
+
+h1 {
+font-size: 18px;
+color : #232323;
+text-shadow: #afafaf 0px 0px 5px;
+}
+
+h2 {
+font-size: 16px;
+color : #232323;
+text-shadow: #afafaf 0px 0px 5px;
+}
+
+h3 {
+font-size: 14px;
+color : #232323;
+text-shadow: #afafaf 0px 0px 5px;
+}
+
+hr {
+border-style: solid;
+border-color: #FFFFFF;
+clear: both;
+}
+
+a {
+text-decoration: none;
+}
+a:active {
+color: #0000FF;
+}
+a:link {
+color: #0000FF;
+}
+a:visited {
+color: #990099;
+}
+a:hover {
+text-decoration: underline;
+color: #CC0000;
+}
+.english {
+font-family: Verdana, 'Lucida Grande',Meiryo,Osaka,Arial,Osaka, sans-serif; 
+line-height: normal;
+}

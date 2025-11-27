@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Language" content="ja" />
+<title>茨木・枚方・高槻・北摂　パソコン修理のＴＫサポート サポート料金</title>
+<meta name="Keywords" content="茨木,無料,パソコン修理,出張修理,枚方,高槻,TKサポート,料金" />
+<meta name="Description" content="相談無料！弊社近隣は迅速対応できます。弊社スタッフが丁寧にご説明させて頂きます。茨木・枚方・高槻・北摂地域の地域密着対応。インターネット接続からパソコントラブル、ウイルス駆除なんでも、あなたの困ったを解決致します。サポート料金についてはサポート料金表をご覧下さい。" />
+<meta name="revisit_after" content="7 days" />
+<meta name="robots" content="ALL" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="Author" content="BOMBIT-CORP" /> 
+<meta name="Copyright" content="TKサポート" /> <!-- 会社名を入力 -->
+<link rev="made" href="mailto:info@tk-support.com" />
+<link href="../index.html" title="茨木・枚方・高槻・北摂　パソコン修理のＴＫサポート" rel="start"  />
+<link rel="stylesheet" href="../commons/import.css" type="text/css" />
+<link rel="stylesheet" href="../commons/header_02.css" type="text/css" />
+<script type="text/javascript" src="../commons/pagetop.js"></script>
+
+
+<script type="text/javascript">
+<!--
+
+function disp(){
+	window.alert('後日公開予定です！');
+}
+
+// -->
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28354739-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body>
+
+<div id="wrapper">
+<div id="container">
+
+<a name="pagetop" id="pagetop">パソコン修理&nbsp;-&nbsp;TKサポート&nbsp;茨木市</a>
+
+<div id="header">
+<h1><a href="../index.html">大阪・茨木・高槻・北摂・京阪沿線を中心にパソコントラブルのトータルサポートをご提供しております。</a></h1>
+<ul id="navigator_sub">
+<li><a href="../sitemap/index.html">サイトマップ</a></li>
+<li><a href="../agreement/index.html">プライバシーポリシー</a></li>
+<li><a href="../index.html">トップページ</a></li>
+</ul>
+<div id="navigator">
+<ul>
+<li><a href="../scope/index.html">出張範囲 <span>scope</span></a></li>
+<li><a href="./index.html">サポート料金 <span>price</span></a></li>
+<li><a href="../flow/index.html">修理の流れ <span>flow</span></a></li>
+<li><a href="../question/index.html">よくある質問 <span>question</span></a></li>
+<li><a href="../company/index.html">会社概要 <span>company</span></a></li>
+<li><a href="../inquiry/index.html">お問い合わせ <span>inquiry</span></a></li>
+</ul>
+</div>
+<div id="mainImage2">
+<span class="no-disp">TKサポートではパソコン修理を承っております。なんでもご相談下さい。</span>
+<img src="../images/title.png" alt="パソコン修理のTKサポートについて" width="880" height="100" />
+</div>
+</div>
+
+<div id="contents_wrapper">
+<div id="contents_wrapper_top">TKサポート　トップ</div>
+<div id="contents_wrapper_body">
+
+<!-- ↓パンくずリンクここから↓ -->
+<ul id="breadCrumb_top">
+<li><a href="../index.html">HOME</a></li>
+<li><span>サポート料金</span></li>
+</ul>
+<!-- ↑パンくずリンクここまで↑ -->
+
+<div id="contents">
+<div id="snippet" align=center>
+<h2>サポート料金一覧</h2> 
+<p>トラブルが解決しなかった場合は出張料と調査代のみとなります。<br />
+サポート事例にも参考価格の一例を掲載しております。<a href="../case_study/index.html"><u>こちら</u></a>をご参照下さい。<br />
+※場合によっては修理品を持ち帰らせていただく場合がございますので、ご了承下さい。
+</p>
+<p>
+ <p align="center">条件を入力してください</p>
+  <table width="300" border="1" cellspacing="1" cellpadding="0" align=center>
+     <tr> 
+      <td width="200">メーカー</td>
+      <td > 
+       <SELECT name="name" style="width:150;">
+       <OPTION value="NEC">NEC</OPTION>
+       <OPTION value="SONY">SONY</OPTION>
+       <OPTION value="TOSHIBA">TOSHIBA</OPTION>
+       <OPTION value="FUJITSU">FUJITSU</OPTION>
+       <OPTION value="PANASONIC">PANASONIC</OPTION>
+       <OPTION value="SHARP">SHARP</OPTION>
+       <OPTION value="SOTEC">SOTEC</OPTION>
+       <OPTION value="HP">HP</OPTION>
+       <OPTION value="DELL">DELL</OPTION>
+       <OPTION value="LENOVO">LENOVO</OPTION>
+       <OPTION value="GATEWAY">GATEWAY</OPTION>
+       <OPTION value="EPSON">EPSON</OPTION>
+       <OPTION value="ASUS">ASUS</OPTION>
+       <OPTION value="">すべて</OPTION>
+       </SELECT>
+      </td>
+    </tr>
+    <tr> 
+      <td width="200">型番</td>
+      <td> 
+        <input type="text" name="model" size="20" maxlength="20">
+      </td>
+    </tr>
+  </table>
+ <p align="center">
+  <input type="submit" name="submit" value="検索">
+  <input type="reset" value="条件クリア">
+ </p>
+</p>
+<hr />
+
+<div class="h3_wrapper"><h3>診断と基本料金</h3></div>
+<div class="hp_section">
+<ol>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> 出張料金・・・２１００円～</li>
+<li style="text-indent:3em" > お客様宅への訪問サポートの際の基本料金となります。</li>
+<li style="text-indent:3em" > ※地域によって異なります。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> トラブル診断・・・４２００円</li>
+<li style="text-indent:3em" > トラブルの原因を究明致します。</li>
+<li style="text-indent:3em" > ※修理続行の場合はこの調査は無料となります。</li>
+</ol>
+</div>
+
+<div class="h3_wrapper"><h3>ウイルス駆除関連</h3></div>
+<div class="hp_section">
+<ol>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> ウイルス駆除・・・９８００円</li>
+<li style="text-indent:3em" > パソコンに侵入したウイルスを駆除致します。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> スパイウェア駆除・・・９８００円</li>
+<li style="text-indent:3em" > パソコンに侵入したスパイウェアを駆除致します。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> ウイルス及びスパイウェア駆除・・・１５８００円</li>
+<li style="text-indent:3em" > パソコンに侵入したウイルスとスパイウェアを駆除致します。</li>
+</ol>
+</div>
+
+<div class="h3_wrapper"><h3>ネットワーク関連</h3></div>
+<div class="hp_section">
+<ol>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> 各種インターネット設定・メール設定・・・４２００円</li>
+<li style="text-indent:3em" > TA・xDSL・ケーブルTV・光回線などの接続設定と動作確認を致します。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> ルーター設定・・・４２００円～</li>
+<li style="text-indent:3em" > ルーターの接続設定及び変更を致します。</li>
+<li style="text-indent:3em" > ※無線設定の場合は＋１０５０円頂戴致します。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> ネットワーク構築・・・１０５００円～</li>
+<li style="text-indent:3em" > 小規模ネットワークの接続設定・動作確認</li>
+<li style="text-indent:3em" > ※追加パソコン１台につき３１５０円</li>
+</ol>
+</div>
+
+<div class="h3_wrapper"><h3>再セットアップ関連</h3></div>
+<div class="hp_section">
+<ol>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> リカバリー・・・８８００円</li>
+<li style="text-indent:3em" > パソコンを購入時の状態に戻します。</li>
+<li style="text-indent:3em" > ※リカバリーディスクが無い場合は別途ご相談下さい。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> リカバリーディスク作成代行・・・６３００円</li>
+<li style="text-indent:3em" > パソコン内にあるリカバリーイメージから、リカバリーディスクの作成を行います。</li>
+<li style="text-indent:3em" > ※リカバリーイメージのあるパソコンのみ受付致します。</li>
+</ol>
+</div>
+
+<div class="h3_wrapper"><h3>インストール関連</h3></div>
+<div class="hp_section">
+<ol>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> アプリケーション・・・３１５０円</li>
+<li style="text-indent:3em" > 各種アプリケーションのインストール及び動作確認</li>
+<li style="text-indent:3em" > ※１アプリケーション毎のお値段になります。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> ドライバ単体インストール・・・３１５０円</li>
+<li style="text-indent:3em" > 自作・メーカー製において手動によるドライバのインストールを行います。</li>
+<li style="text-indent:3em" > ※複数の場合は６３００円頂戴致します。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> OSインストール・・・８４００円</li>
+<li style="text-indent:3em" > Windows・Mac等、各種インストール・動作確認を行います。</li>
+</ol>
+</div>
+
+<div class="h3_wrapper"><h3>システム修復関連</h3></div>
+<div class="hp_section">
+<ol>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> システム修復・・・８４００～円</li>
+<li style="text-indent:3em" > エラー等によるシステム上の不具合を修復致します。</li>
+<li style="text-indent:3em" > ※また著しく破損している場合は１２６００円頂戴致します。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> フォントキャッシュ修復・・・３１５０円</li>
+<li style="text-indent:3em" > フォントキャッシュの修復を行います。</li>
+</ol>
+</div>
+
+<div class="h3_wrapper"><h3>設定関連</h3></div>
+<div class="hp_section">
+<ol>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> パソコン初期設定・・・３１５０円</li>
+<li style="text-indent:3em" > 基本構成（本体・ディスプレイ）の接続・設定・動作確認を行います。</li>
+<li style="text-indent:3em" > ※他の機器がある場合は別途料金となります。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> TVチューナー設定・・・４２００円</li>
+<li style="text-indent:3em" > TVチューナーの接続と設定・動作確認を行います。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> 周辺機器設定・・・４２００円</li>
+<li style="text-indent:3em" > 各種外付け周辺機器の接続と設定・動作確認および機器の付属するドライバインストールを行います。</li>
+</ol>
+</div>
+
+<div class="h3_wrapper"><h3>増設・交換関連</h3></div>
+<div class="hp_section">
+<ol>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> ハードディスク・・・４２００円</li>
+<li style="text-indent:3em" > 内臓ハードディスクの装着と設定・動作確認を行います。</li>
+<li style="text-indent:3em" > ※ノートパソコンのハードディスクを交換する場合は６３００円となります。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> ハードディスク＋データ移行・・・９４５０円</li>
+<li style="text-indent:3em" > 内臓ハードディスクの装着と設定・動作確認を行います。</li>
+<li style="text-indent:3em" > ※ノートパソコンのハードディスクを交換する場合は６３００円となります。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> メモリ（難易度A）・・・２１００円</li>
+<li style="text-indent:3em" > メモリの増設と動作確認を行います。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> メモリ（難易度B）・・・４２００円</li>
+<li style="text-indent:3em" > パソコンを著しく分解し増設する場合はこちらの料金となります。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> ドライブ・カード（デスクトップ）・・・４２００円</li>
+<li style="text-indent:3em" > パソコンを著しく分解し増設する場合はこちらの料金となります。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> ドライブ・カード（ノートパソコン）・・・６３００円</li>
+<li style="text-indent:3em" > パソコンを著しく分解し増設する場合はこちらの料金となります。</li>
+</ol>
+</div>
+
+<div class="h3_wrapper"><h3>データ関連</h3></div>
+<div class="hp_section">
+<ol>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> データ復旧（フラッシュメモリ等）・・・６３００円～</li>
+<li style="text-indent:3em" > フラッシュメモリの不良等により失ったデータを復旧致します。</li>
+<li style="text-indent:3em" > 状態により復旧できない場合もありますのでご了承下さい。</li>
+<li style="text-indent:3em" > ※物理的に動作するハードディスクのみ受け付けます。</li>
+<li style="text-indent:3em" > ※上書き等によりデータが消失した場合は復旧できない場合があります。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> データ復旧（ハードディスクへ復旧）・・・１５０００円～</li>
+<li style="text-indent:3em" > 作業内容は上記復旧と同様の内容となります。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> データバックアップ・・・６３００円～</li>
+<li style="text-indent:3em" > お手持ちのハードディスク内のデータをHDD及びメディアへ転送・装着・動作確認を行います。</li>
+<li style="text-indent:3em" > ※メディア（ＣＤまたはＤＶＤ）への移行は別途料金が発生します。</li>
+</ol>
+</div>
+
+<div class="h3_wrapper"><h3>その他</h3></div>
+<div class="hp_section">
+<ol>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> パソコンアップグレード・・・６３００円～</li>
+<li style="text-indent:3em" > CPU・マザーボードの交換・動作確認。</li>
+<li style="text-indent:3em" > ※パーツ代は別途料金となります。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> Windowsアップデート・・・４２００円</li>
+<li style="text-indent:3em" > 重要な更新データをお預かりした時点の最新の状態に致します。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> 領域設定・・・３１５０円</li>
+<li style="text-indent:3em" > ハードディスクのパーティション設定およびフォーマット動作確認を行います。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> 各種基盤修復・・・１０５００円～</li>
+<li style="text-indent:3em" > マザーボード・電源ユニット等のコンデンサー交換、基盤の配線修復を行います。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> 操作説明・指導（１時間単位）・・・１５７５円</li>
+<li style="text-indent:3em" > パソコンの使い方等をご指導致します。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> パソコンメンテナンス（二泊三日）※持込・・・２１０００円</li>
+<li style="text-indent:3em" > パソコン内部の埃の除去、ハードディスクの状態チェック、ウイルス及びスパイウェア</li>
+<li style="text-indent:3em" > のチェックを行います。</li>
+<li style="text-indent:3em" > ※感染していた場合は駆除致します。</li>
+<li><img class="check" src="../images/pin_green.png" width="20" height="20" alt="checked" /> パソコンメンテナンス（二泊三日）※出張引取・・・３００００円</li>
+<li style="text-indent:3em" > パソコンを出張にて引取に伺います。作業内容は上記と同様となります。</li>
+</ol>
+</div>
+
+</div>
+</div>
+
+<div id="sidebar">
+<!--
+<div class="section">
+<h3>サイドメニュー</h3>
+<ul class="sidemenu">
+<li><a href="index.html">サイドメニュー1</a></li>
+<li class="last"><a href="index.html">サイドメニュー1</a></li>
+</ul>
+</div>
+
+<div class="section">
+<h3>お知らせ</h3>
+<p>新着情報などお知らせしたいことを入力。</p>
+<p><a href="index.html">リンク先</a></p>
+</div>
+-->
+
+<div class="section">
+<h3>お問い合わせ</h3>
+<p>お気軽にお問い合わせください。</p>
+<p class="tel">&#9742; 072-667-6669</p>
+<p>（ 9:00〜21:00 ）&nbsp;年中無休</p>
+<p class="form"><a href="../inquiry/index.html">メールは24時間受付</a></p>
+</div>
+
+</div>
+
+<!-- ↓パンくずリンクここから↓ -->
+<div id="breadCrumb_bottom_wrapper">
+<ul id="breadCrumb_bottom">
+<li><a href="../index.html">HOME</a></li>
+<li><span>サポート料金</span></li>
+</ul>
+</div>
+<!-- ↑パンくずリンクここまで↑ -->
+
+</div>
+<div id="contents_wrapper_bottom">
+<p><a href="#pagetop" id="gopagetop" name="gopagetop" onclick="jumpToPageTop();return false;" onkeypress="jumpToPageTop();return false;"><img src="../images/pagetop.gif" alt="ページの先頭へ戻る" width="104" height="12" /></a></p>
+</div>
+
+</div>
+
+<div id="footer">
+<h4>ガイドライン</h4> <!-- タイトルを入力 -->
+<ol>
+<li><a href="../index.html">トップページ</a></li>
+<li><a href="../company/index.html">会社概要</a></li>
+<li><a href="../sitemap/index.html">サイトマップ</a></li>
+<li><a href="../inquiry/index.html">お問い合わせ</a></li>
+</ol>
+<h4>コンテンツ</h4> <!-- タイトルを入力 -->
+<ol>
+<li><a href="../scope/index.html">出張範囲</a></li>
+<li><a href="./index.html">サポート料金</a></li>
+<li><a href="../flow/index.html">修理の流れ</a></li>
+<li><a href="../question/index.html">よくある質問</a></li>
+<li><a href="../case_study/index.html">サポート事例</a></li>
+</ol>
+<h4>関連リンク</h4> <!-- タイトルを入力 -->
+<ol>
+<li><a href="http://www.n-hair.net/" target="_blank">n.HAIR</a></li>
+</ol>
+</div>
+
+<div id="information">
+<p>TKサポート／〒567-0012　大阪府茨木市東大田4-1-67-3　TEL 072-667-6669</p>
+</div>
+
+<div id="copyright">
+<span>Copyright © 2012 TKSupport All Rights Reserved.<br />
+このWEBサイト上の文章、映像、写真等の著作物の全部、または一部を弊社の許可なく複製、使用することを一切禁じます。</span>
+</div>
+
+</div>
+</div>
+</body>
+</html>
